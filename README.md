@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alebernini
-- 👀 I’m interested in people and travel to world to exchange ideas
-- 🌱 I’m currently learning how to live free
+- 👀 I’m interested in people and traveling around the world to exchange ideas
+- 🌱 I’m currently learning about data analytics 
 - 💞️ I’m looking to collaborate on multicultural projects
 - 📫 How to reach me: linkedin/alessandrabernini
 - 😄 Pronouns: her
