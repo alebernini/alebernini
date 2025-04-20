@@ -1,8 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/alessandrabernini/alessandrabernini/main/banner.png" alt="Ale Bernini Banner"/>
-</p>
-
 <h1 align="center">Hi there, I'm Ale Bernini 👋</h1>
 <p align="center">
   Finance professional turned data explorer • Passionate about multicultural collaboration 🌍
@@ -27,15 +22,6 @@
 <a href="https://www.w3schools.com/sql/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL" height="40"/></a>
 <a href="https://learn.microsoft.com/en-us/power-bi/" target="_blank"><img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" title="Power BI"/></a>
 <a href="https://www.tableau.com/products/public" target="_blank"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" title="Tableau"/></a>
-
----
-
-### 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alessandrabernini&show_icons=true&theme=default&hide=prs&count_private=true" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessandrabernini&layout=compact&theme=default" alt="Top Languages" height="150"/>
-</div>
 
 ---
 
