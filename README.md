@@ -1,21 +1,34 @@
-- 👋 Hi, I’m @alebernini
-- 👀 I’m interested in people and traveling around the world to exchange ideas
-- 🌱 I’m currently learning about data analytics 
-- 💞️ I’m looking to collaborate on multicultural projects
-- 📫 How to reach me: linkedin/alessandrabernini
-- 😄 Pronouns: her
-- ⚡ Fun fact: I love making people laugh
+<!-- Banner opcional aqui (podemos criar um depois!) -->
 
-#### 📊 **My techs** 
+<h1 align="center">Hi there, I'm Ale Bernini 👋</h1>
+<p align="center">
+  Finance professional turned data explorer • Passionate about multicultural collaboration 🌍
+</p>
 
-<a href="https://www.w3schools.com/sql/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL"/></a>  
-<a href="https://help.tableau.com/current/pro/desktop/en-us/default.htm" target="_blank"><img src="https://skillicons.dev/icons?i=tableau" alt="Tableau" title="Tableau"/></a>  
-<a href="https://learn.microsoft.com/en-us/power-bi/" target="_blank"><img src="https://skillicons.dev/icons?i=powerbi" alt="Power BI" title="Power BI"/></a>  
-<a href="https://www.python.org" target="_blank"><img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python"/></a>  
+---
 
-  
+### ✨ About Me
 
-<!---
-alebernini/alebernini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 I’m **Alessandra Bernini** — a finance professional making an exciting pivot into the world of data!
+- 🌍 I’m passionate about connecting with people and exploring cultures around the world.
+- 📊 Currently diving deep into **data analytics**, and loving every bit of it.
+- 🤝 Looking to collaborate on **multicultural projects** that spark curiosity and impact.
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/alessandrabernini)
+- 😄 Fun fact: I have a knack for making people laugh — humor is my universal language!
+
+---
+
+### 🛠️ My Tech Stack
+
+<a href="https://www.python.org" target="_blank"><img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python" height="40"/></a>
+<a href="https://www.w3schools.com/sql/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL" height="40"/></a>
+<a href="https://learn.microsoft.com/en-us/power-bi/" target="_blank"><img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" title="Power BI"/></a>
+<a href="https://www.tableau.com/products/public" target="_blank"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" title="Tableau"/></a>
+
+---
+
+### 🌐 Let's Connect
+
+<a href="https://www.linkedin.com/in/alessandrabernini" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
