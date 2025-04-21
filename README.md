@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Ale Bernini 👋</h1>
+<h1 align="center">Hi there, I'm Ale Bernini </h1>
 <p align="center">
   Finance professional turned data explorer • Passionate about multicultural collaboration 🌍
 </p>
